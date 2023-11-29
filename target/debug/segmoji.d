@@ -1,0 +1,1 @@
+/home/arsalan/projects/rusci/target/debug/segmoji: /home/arsalan/projects/rusci/src/char_map.rs /home/arsalan/projects/rusci/src/char_seg_map.rs /home/arsalan/projects/rusci/src/integer_map.rs /home/arsalan/projects/rusci/src/main.rs /home/arsalan/projects/rusci/src/screen.rs /home/arsalan/projects/rusci/src/seg14.rs
