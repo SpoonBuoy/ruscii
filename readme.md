@@ -8,7 +8,9 @@ This Rust program employs a heuristic approach to display strings on the termina
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/segment14-display.git
+   git clone https://github.com/SpoonBuoy/ruscii.git
+
+   cd ruscii
 
    cargo build
 
