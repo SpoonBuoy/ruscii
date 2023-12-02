@@ -32,13 +32,16 @@ fn main() {
     let mut chars_on_each_line: usize = 20;
     let mut spacing:usize = 2;
     let mut highlight:char = '@';
-    let mut str = "SEGMOJI V I";
-    //width = chars_on_each_line * (size + 1) + spacing;
-    println!("Size : {} Chars on each line : {}, Spacing : {}, Highlight : {}",
-            size, chars_on_each_line, spacing, highlight);
+    let str = "RUSCI";
+   
     display(str, size, chars_on_each_line, spacing, highlight);
+
+     //width = chars_on_each_line * (size + 1) + spacing;
+    println!("[Size] : {} [Chars on each line] : {}, [Spacing] : {}, [Highlight] : {}, [String] : {}",
+            size, chars_on_each_line, spacing, highlight, str);
     
     println!("Enter the command in that order");
+    println!("ex : 6 2 @ example");
 
     
     loop{
