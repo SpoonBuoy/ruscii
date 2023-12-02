@@ -1,7 +1,7 @@
 ### Rusci
 #### Rust-based Heuristic Approach for Segment 14 Display
 
-This Rust program employs a heuristic approach to display strings on the terminal in a Segment 14 display fashion. The program takes input strings and converts them into an ASCII art representation using the Segment 14 display style.
+This Rust program employs a heuristic approach to display strings on the terminal in a Segment 14 display fashion. The program takes input strings and converts them into an Character art representation using the Segment 14 display style.
 
 ## Usage
 
